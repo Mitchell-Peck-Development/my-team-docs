@@ -3,6 +3,12 @@
 * [Introduction](README.md)
 * [Feedback](feedback.md)
 
-## Accessing the App for the First Time <a href="#first-time" id="first-time"></a>
+## New Users
 
-* [Creating an Account](first-time/creating-an-account.md)
+* [Creating an Account](new-users/creating-an-account.md)
+* [Joining a Team](new-users/joining-a-team.md)
+
+## Settings
+
+* [App Settings](settings/app-settings.md)
+* [Team Settings](settings/team-settings.md)

@@ -2,7 +2,7 @@
 
 If this is your first time on MyTeam, you will need to create an account.
 
-To create your account, sign in to the app with either an Apple or Google account by clicking the respective button on the login page.
+To create your account, log in to the app with either an Apple or Google account by tapping the respective button on the login page.
 
 {% hint style="info" %}
 By creating an account on MyTeam, you agree to our [privacy policy](https://myteamapp.org/privacy/) and [terms & conditions](https://myteamapp.org/terms/).

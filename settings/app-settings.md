@@ -6,7 +6,7 @@ The app settings page allows you to configure security, cache, event, notificati
 
 ***
 
-<figure><img src="../.gitbook/assets/main (1).png" alt="" width="375"><figcaption><p>App Settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/main (1) (1).png" alt="" width="375"><figcaption><p>App Settings</p></figcaption></figure>
 
 ## Security
 
@@ -46,7 +46,7 @@ When the cache is off, the individual selection toggles won't be visible.
 
 ### Event Mode
 
-Event Mode allows you to manually turn the app's network connection off. This will have the app act as if it is offline, including force any cached data to be used and save form responses locally for offloading to an online device using QR codes.
+Event Mode allows you to manually turn the app's network connection off. This will have the app act as if it is offline, including force any cached data to be used and save form responses locally for offloading to an online device using QR codes. This is useful for if you are at an event and are going to be creating lots of form submissions, like when you're scouting. This will force all your submissions to stay offline, so you're able to make sure they're all uploaded when you're ready to offload them to another device. Read more in [Offline Submissions and Offloading](../forms/offline-submissions-and-offloading/).
 
 ***
 

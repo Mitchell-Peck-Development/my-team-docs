@@ -1,0 +1,3 @@
+id,startTime,endTime,memberId,memberName,type,status,approverId,team,name,approverName
+2a3acbfa-c979-49c9-912b-0a6f1208eafc,2024-07-04T17:21:33.781082+00:00,2024-07-04T17:22:35.63+00:00,fe107d39-145b-4c67-834e-3ead0cc038fd,John A,practice,approved,139943ae-98db-42fb-a1c5-af7cd1a81399,10219,Practice,Mitchell P
+531a8793-6f46-44c6-8c20-4ee32e3dc609,2024-07-04T16:00:00+00:00,2024-07-04T17:19:19.418+00:00,fe107d39-145b-4c67-834e-3ead0cc038fd,John A,practice,approved,139943ae-98db-42fb-a1c5-af7cd1a81399,10219,Practice,Mitchell P

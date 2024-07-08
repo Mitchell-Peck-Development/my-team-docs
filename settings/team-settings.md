@@ -4,7 +4,7 @@ The team settings page allows you to change your chosen team as well as view tea
 
 ***
 
-<figure><img src="../.gitbook/assets/main (2).png" alt="" width="375"><figcaption><p>Team Settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/main (2) (1).png" alt="" width="375"><figcaption><p>Team Settings</p></figcaption></figure>
 
 ## My Name
 
@@ -14,7 +14,7 @@ You are not able to change your name once you have signed up.
 
 ## Current Team
 
-The Current Team section allows you to see what team you're currently in. You can change your team by clicking 'Change Team'.
+The Current Team section allows you to see what team you're currently in. You can change your team by tapping 'Change Team'.
 
 <figure><img src="../.gitbook/assets/no team selected (1).png" alt="" width="375"><figcaption><p>Team Settings with No Team Selected</p></figcaption></figure>
 

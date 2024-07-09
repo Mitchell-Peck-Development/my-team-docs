@@ -55,6 +55,6 @@
 
 * [Notifications](app-utilities/notifications.md)
 * [Help](app-utilities/help.md)
-* [Info](app-utilities/info.md)
+* [About](app-utilities/about.md)
 * [Kudos](app-utilities/kudos.md)
 * [In-App Linking](app-utilities/in-app-linking.md)

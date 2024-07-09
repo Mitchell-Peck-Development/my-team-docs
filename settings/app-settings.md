@@ -6,7 +6,7 @@ The app settings page allows you to configure security, cache, event, notificati
 
 ***
 
-<figure><img src="../.gitbook/assets/main (1) (1).png" alt="" width="375"><figcaption><p>App Settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/main (17).png" alt="" width="375"><figcaption><p>App Settings</p></figcaption></figure>
 
 ## Security
 

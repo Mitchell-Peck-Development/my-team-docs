@@ -4,7 +4,7 @@ The team settings page allows you to change your chosen team as well as view tea
 
 ***
 
-<figure><img src="../.gitbook/assets/main (2) (1).png" alt="" width="375"><figcaption><p>Team Settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/main (18).png" alt="" width="375"><figcaption><p>Team Settings</p></figcaption></figure>
 
 ## My Name
 

@@ -20,7 +20,7 @@ From the Scouting Dashboard, you will see all the teams attending your next even
 
 By tapping on a team from the list, you can see some basic information about that team, as well as proceed to the Scouting and Match Data Forms.
 
-![](../.gitbook/assets/user-scouting-infomodal)
+![](../.gitbook/assets/user-scouting-infodialog)
 
 By tapping either the Scouting Form or the Match Data Form, you'll be taken to the respective form page. Both are similar in content; see more information about both at [Scouting Forms](scouting-forms.md).
 

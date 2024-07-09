@@ -24,7 +24,7 @@ Any responses that match your filters will be displayed below the filters box.
 
 ## Analyze Response
 
-When you tap on a response, a modal will appear with all the details from the response. At the top, you can see the team number as well as the submission key, followed by the name of the user that submitted the response. Questions and their responses are in the scroll list below, and at the bottom of the scroll list is the rest of the response data, such as key, owner team, type, event, scouted team, and submitter ID.
+When you tap on a response, a dialog will appear with all the details from the response. At the top, you can see the team number as well as the submission key, followed by the name of the user that submitted the response. Questions and their responses are in the scroll list below, and at the bottom of the scroll list is the rest of the response data, such as key, owner team, type, event, scouted team, and submitter ID.
 
 ![](../.gitbook/assets/user-scouting-analyseresponse)
 

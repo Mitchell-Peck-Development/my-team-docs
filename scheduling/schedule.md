@@ -12,7 +12,7 @@ All tasks are listed under All Tasks, and the current text is colored yellow.
 
 By pressing the 'Next' button, you'll progress to the next task, and the match number will increase. Tasks loop, so once you get to the last task, pressing the 'Next' button will take you back to the top of the list; however, the match number will continue to increase. This way, you know what match number you're aligned with, and can press the 'Next' button to progress accordingly.
 
-Remember, if you ever need to reset your schedule, just open the menu and click 'Rebuild Cache'. This will reset your tasks, and will reset your match number.
+Remember, if you ever need to reset your schedule, just open the menu and tap 'Rebuild Cache'. This will reset your tasks, and will reset your match number.
 
 ![](../.gitbook/assets/user-schedule-progression)
 

@@ -4,7 +4,7 @@ On the login page, you can enter your user ID to login, as well as proceed to [R
 
 <img src="../.gitbook/assets/user-login" alt="" data-size="original">
 
-After clicking the 'Login' button, you will be taken to a page for a few seconds that generates a cache of your data. See [Caching](../technical/caching.md) for more information.
+After tapping the 'Login' button, you will be taken to a page for a few seconds that generates a cache of your data. See [Caching](../technical/caching.md) for more information.
 
 ![](../.gitbook/assets/user-cache)
 
@@ -14,4 +14,4 @@ If the id that you entered was invalid, you'll get a notification warning you ab
 
 ![](../.gitbook/assets/user-loginerror)
 
-If you're still getting this error, ask your coach to tell you your ID. They can see it by going into Settings -> Users and clicking the edit icon. Your ID will be next to your name.
+If you're still getting this error, ask your coach to tell you your ID. They can see it by going into Settings -> Users and tapping the edit button. Your ID will be next to your name.

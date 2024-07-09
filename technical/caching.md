@@ -10,7 +10,7 @@ Also note that even though a cache has been built, if you have an active interne
 
 ## Rebuilding Cache
 
-When you open your menu, if you are online and the 'Automatic - WiFi' Data Transfer Method is switched on, you will see an option to 'Rebuild Cache'. This is useful if you know that data has been changed since your last cache, you're on an active internet connection, and you want to make it available while offline. Clicking this button will take you to the caching page for a few seconds, before returning you to the Dashboard page.
+When you open your menu, if you are online and the 'Automatic - WiFi' Data Transfer Method is switched on, you will see an option to 'Rebuild Cache'. This is useful if you know that data has been changed since your last cache, you're on an active internet connection, and you want to make it available while offline. tapping this button will take you to the caching page for a few seconds, before returning you to the Dashboard page.
 
 ![](../.gitbook/assets/user-menu-online)
 

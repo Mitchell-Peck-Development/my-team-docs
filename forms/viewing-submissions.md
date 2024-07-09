@@ -1,10 +1,10 @@
 # Viewing Submissions
 
-When you're online, the main Forms page will have a clock icon in the top left of the page.
+When you're online, the main Forms page will have a clock button in the top left of the page.
 
 <figure><img src="../.gitbook/assets/main (2).png" alt="" width="375"><figcaption><p>Forms Page</p></figcaption></figure>
 
-When you tap the clock icon, it will take you to the view responses page.
+When you tap the clock button, it will take you to the view responses page.
 
 <figure><img src="../.gitbook/assets/main (3).png" alt="" width="375"><figcaption><p>View Responses Page</p></figcaption></figure>
 
@@ -16,11 +16,11 @@ To filter the responses, use natural language to describe your filters in the te
 
 <figure><img src="../.gitbook/assets/ai filter.png" alt="" width="375"><figcaption><p>Natural Language Filtering</p></figcaption></figure>
 
-You can also apply filters by tapping the filter icon in the top right.
+You can also apply filters by tapping the filter button in the top right.
 
 <figure><img src="../.gitbook/assets/manual filter.png" alt="" width="375"><figcaption><p>Manual Filters</p></figcaption></figure>
 
-You can link to the filtered responses by tapping the link icon in the top right.
+You can link to the filtered responses by tapping the link button in the top right.
 
 <figure><img src="../.gitbook/assets/link filtered.png" alt="" width="375"><figcaption><p>Link to Filtered Responses</p></figcaption></figure>
 

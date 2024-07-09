@@ -16,11 +16,11 @@ You can respond to an event requiring RSVP by tapping either the 'Going', 'Maybe
 
 <figure><img src="../.gitbook/assets/response rsvp.png" alt="" width="375"><figcaption><p>Event Requiring RSVP with Response</p></figcaption></figure>
 
-You can view the users invited to an regular event, as well as users who responded as' Going', by tapping the eye icon for the event.
+You can view the users invited to an regular event, as well as users who responded as' Going', by tapping the eye button for the event.
 
 <figure><img src="../.gitbook/assets/responses.png" alt="" width="375"><figcaption><p>Regular Event Responses</p></figcaption></figure>
 
-You can view the users invited to an event requiring RSVP, as well as users who responded as either 'Going' or 'Not Going', bu tapping the eye icon for the event.
+You can view the users invited to an event requiring RSVP, as well as users who responded as either 'Going' or 'Not Going', bu tapping the eye button for the event.
 
 <figure><img src="../.gitbook/assets/rsvp responses.png" alt="" width="375"><figcaption><p>Event Requiring RSVP Responses</p></figcaption></figure>
 

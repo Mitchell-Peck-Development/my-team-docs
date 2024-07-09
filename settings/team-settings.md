@@ -20,7 +20,7 @@ Scrolling down shows you previews for the menu and for messages so that you can 
 
 ### Members
 
-To add members to your team, tap the plus button next to members.
+To add members to your team, tap the plus button next to team members.
 
 <figure><img src="../.gitbook/assets/add members.png" alt="" width="375"><figcaption><p>Add Members</p></figcaption></figure>
 

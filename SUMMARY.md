@@ -57,4 +57,5 @@
 * [Help](app-utilities/help.md)
 * [About](app-utilities/about.md)
 * [Kudos](app-utilities/kudos.md)
+* [Biometrics](app-utilities/biometrics.md)
 * [In-App Linking](app-utilities/in-app-linking.md)

@@ -12,7 +12,7 @@ The app settings page allows you to configure security, cache, event, notificati
 
 ### Biometric Login
 
-The Biometric Login setting allows you to choose whether you want to be required to use your device's biometric authentication to access the app, as well as perform select actions.
+The Biometric Login setting allows you to choose whether you want to be required to use your device's biometric authentication to access the app, as well as perform select actions. Read more [here](../app-utilities/biometrics.md).
 
 If your device doesn't support biometric authentication, the toggle will be disabled.
 

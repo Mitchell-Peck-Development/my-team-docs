@@ -2,7 +2,7 @@
 
 As an adult, the View Responses page will look slightly different.
 
-<figure><img src="../.gitbook/assets/main (3).png" alt="" width="375"><figcaption><p>View Responses Page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/main (4).png" alt="" width="375"><figcaption><p>View Responses Page</p></figcaption></figure>
 
 Tapping the share button in the top left will open the Share Form Responses dialog.
 
@@ -10,7 +10,7 @@ Tapping the share button in the top left will open the Share Form Responses dial
 Only teams that are in the teams registry can share responses.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/main (1) (1).png" alt="" width="375"><figcaption><p>Share Form Responses</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/main (5).png" alt="" width="375"><figcaption><p>Share Form Responses</p></figcaption></figure>
 
 Tapping the 'Share Another Template' button will allow you to share a template's responses that you aren't already sharing.
 

@@ -13,3 +13,7 @@
 ## Settings
 
 * [Team Settings](settings/team-settings.md)
+
+## Practices & Events
+
+* [Practices & Events](practices-and-events/practices-and-events.md)

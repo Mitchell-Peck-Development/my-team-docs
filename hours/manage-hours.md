@@ -4,7 +4,7 @@
 
 By tapping on the gear button on the Hours page, you can approve pending hours for your team's members and generate exports.
 
-<figure><img src="../.gitbook/assets/main.png" alt="" width="375"><figcaption><p>Manage Hours</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/main (1).png" alt="" width="375"><figcaption><p>Manage Hours</p></figcaption></figure>
 
 Here, you can view and approve pending hours. Tapping 'View' on a user will show their pending entries.
 
@@ -24,7 +24,7 @@ Tapping the 'Approve' button on an entry will approve it.
 
 Tapping the 'Approved' section shows approved hours for members.
 
-<figure><img src="../.gitbook/assets/main (1).png" alt="" width="375"><figcaption><p>Approved Entries</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/main (2).png" alt="" width="375"><figcaption><p>Approved Entries</p></figcaption></figure>
 
 Similarly, tapping the 'View' button for a member shows their approved entries, and tapping the eye button shows an entry. Tapping the pencil button won't allow you to edit the entry since it's already been approved, but you can delete the entry from there.
 
@@ -36,7 +36,7 @@ Tapping the 'Add Hours' button will allow you to add hours for members. After co
 
 Tapping the 'Exports' section shows exported hours entries.
 
-<figure><img src="../.gitbook/assets/main (2).png" alt="" width="375"><figcaption><p>Exports</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/main (3).png" alt="" width="375"><figcaption><p>Exports</p></figcaption></figure>
 
 Tapping the 'View' button next to an export shows the exported files for that export.
 

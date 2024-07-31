@@ -19,10 +19,10 @@
 * [Suite Creator](tasks/suite-creator.md)
 * [Suite Builder](tasks/suite-builder.md)
 
-## Events
+## Practices & Events
 
-* [Events](events/events.md)
-* [Event Editor](events/event-editor.md)
+* [Events](practices-and-events/events.md)
+* [Event Editor](practices-and-events/event-editor.md)
 
 ## Settings
 

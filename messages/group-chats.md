@@ -12,6 +12,14 @@ You can create a new group by tapping the overflow menu in the top right.
 
 You can add members to the group as well as set a name for the group in the dialog that appears.
 
+{% hint style="info" %}
+Normally, only managers can delete a group chat. However, if there aren't any managers in the group, any member can delete the group.
+{% endhint %}
+
+{% hint style="info" %}
+If a group is tied to an event, neither the members nor the name can be changed. However, if a group is tied to an event, any member can delete it.
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/new group chat some selected.png" alt="" width="375"><figcaption><p>New Group with Members</p></figcaption></figure>
 
 You can open a group by tapping on it.

@@ -6,11 +6,11 @@ The Teams Registry allows your team to discover other teams on the MyTeam platfo
 The Teams Registry will only be visible if your team is on the Teams Registry. Only adults can put your team on the Teams Registry.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/main (19).png" alt="" width="375"><figcaption><p>Teams Registry Page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/main (21).png" alt="" width="405"><figcaption><p>Teams Registry Page</p></figcaption></figure>
 
 Your team will be displayed at the top of the list, with 10 more teams displayed below. Each team's information will be displayed, including City, State, Country, Robot Name, and Contact. If a field is blank, it won't be shown. Kudos are also displayed. Learn more about Kudos [here](../app-utilities/kudos.md).
 
-By default, your team's city, state, and country are applied to the filters to show you teams near you.
+By default, your team's city, state, and country are applied to the filters to show you teams near you. The 'Configure Filters' button will also show how many filters are currently applied.
 
 <figure><img src="../.gitbook/assets/filters.png" alt="" width="375"><figcaption><p>Filters</p></figcaption></figure>
 

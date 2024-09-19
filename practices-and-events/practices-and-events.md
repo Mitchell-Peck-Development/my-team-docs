@@ -10,6 +10,10 @@ You can see a count of the members going to the event next to the eye button.
 
 You can respond to a regular event by tapping the 'Going' button, and if you change your mind, you can tap the red 'x' button to clear your response.
 
+{% hint style="info" %}
+If an event that does not require RSVP is occurring within the next 20 hours, you will not be able to add or change your response.
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/no response.png" alt="" width="375"><figcaption><p>Regular Event with No Response</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/response.png" alt="" width="375"><figcaption><p>Regular Event with Response</p></figcaption></figure>
@@ -17,7 +21,7 @@ You can respond to a regular event by tapping the 'Going' button, and if you cha
 You can respond to an event requiring RSVP by tapping either the 'Going', 'Maybe', or 'Not Going' button. If you change your mind, you can update your response accordingly.
 
 {% hint style="info" %}
-If an event that requires RSVP is occurring within the next 24 hours, you will only see the 'Going' and 'Not Going' options.
+If an event that requires RSVP is occurring within the next 20 hours, you will not be able to add or change your response.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/no response rsvp.png" alt="" width="375"><figcaption><p>Event Requiring RSVP with No Response</p></figcaption></figure>
@@ -33,6 +37,8 @@ If an event is cancelled, you won't be able to add or change your response.
 {% endhint %}
 
 You can view the users invited to an event, as well as users who responded as' Going' or 'Not Going' (for RSVP events), by tapping the eye button for the event.
+
+The count next to the eye button shows the number of members signed up for the event, not including adults.
 
 <figure><img src="../.gitbook/assets/responses list.png" alt="" width="405"><figcaption><p>Event Responses</p></figcaption></figure>
 
